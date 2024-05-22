@@ -1,0 +1,26 @@
+run 5 us
+PC:          x | WriteData:          0
+PC:          x | WriteData:          0
+PC:          x | WriteData:          0
+PC:          x | WriteData:          0
+PC:          0 | WriteData:        100
+PC:          0 | WriteData:          0
+PC:          0 | WriteData:          0
+PC:          4 | WriteData:        200
+PC:          0 | WriteData:          0
+PC:          0 | WriteData:          0
+PC:          8 | WriteData:        400
+PC:          0 | WriteData:          0
+PC:          0 | WriteData:          0
+PC:         12 | WriteData:        800
+PC:          0 | WriteData:          0
+PC:          0 | WriteData:          0
+PC:         16 | WriteData:       1600
+PC:          0 | WriteData:          0
+PC:          0 | WriteData:          0
+PC:         20 | WriteData:       3200
+PC:          0 | WriteData:          0
+PC:          0 | WriteData:          0
+PC:         24 | WriteData:       6400
+PC:         28 | WriteData:          X
+PC:         32 | WriteData:          X

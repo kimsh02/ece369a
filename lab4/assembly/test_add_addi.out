@@ -1,0 +1,8 @@
+run 5 us
+PC:          0 | WriteData:        100
+PC:         24 | WriteData:        200
+PC:         48 | WriteData:        400
+PC:         72 | WriteData:        800
+PC:         96 | WriteData:       1600
+PC:        120 | WriteData:       3200
+PC:        144 | WriteData:       6400
